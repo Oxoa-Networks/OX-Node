@@ -75,7 +75,7 @@ sudo reboot
 
 reconnect via SSH port 53572  using oxuser
 
-### to lock the root user for security purpose, If you are running another node on root user kindly avoid this step
+### To lock the root user for security purpose, If you are running another node on root user kindly avoid this step
 ```
 sudo passwd --delete --lock root
 ```
