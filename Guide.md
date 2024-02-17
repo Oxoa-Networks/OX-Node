@@ -92,10 +92,7 @@ Truning on networking protocols
 
 Open Terminal Application :
 ```
-sudo apt update
-```
-```
-sudo apt upgrade
+sudo apt update && upgrade
 ```
 Type Y
 
