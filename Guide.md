@@ -102,7 +102,7 @@ cd /etc/netplan && sudo mmv '*.yaml' '#1.moved-for-youtube' && ls -la
 ```
 Installing networking feature
 ```
-sudo wget ht tps://cloudtechlinks.com/V23-cloudtech-dot-yaml  --output-document=v23-cloudtech.yaml && ls -la && cat v23-cloudtech.yaml
+sudo wget https://cloudtechlinks.com/V23-cloudtech-dot-yaml  --output-document=v23-cloudtech.yaml && ls -la && cat v23-cloudtech.yaml
 ```
 ```
 sudo reboot
