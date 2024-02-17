@@ -29,7 +29,7 @@ Updating dependencies
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-Installing Ubuntu Desktop
+Installing Ubuntu Desktop - process will take 10 minutes
 ```
 sudo apt-get install ubuntu-desktop firefox stacer mmv -y
 ```
