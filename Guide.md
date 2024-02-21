@@ -97,8 +97,19 @@ sudo reboot
 ### Install OXOA node 
 Open terminal
 Dowloading OXOA node AppImage on desktop
+
+### open firefox paste the url in search bar
 ```
-wget https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.0.AppImage
+https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.0.AppImage
+```
+> Click "View Raw"
+
+It will download the app image
+
+>Then, Open terminal follow the below commands
+
+```
+cd Downloads
 ```
 Making AppImage Executable
 ```
