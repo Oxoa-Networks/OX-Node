@@ -38,9 +38,9 @@ Installing GUI interface
 ```
 chmod +x  xrdp-installer-1.4.sh && ./xrdp-installer-1.4.sh
 ```
-Choose/Type 1 
+Choose/ubuntu number
 ```
-1
+ubuntu
 ```
 Changing the port access for security purpose to avoid common ports
 ```
