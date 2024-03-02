@@ -29,7 +29,7 @@ adduser oxuser
 ```
 Giving sudo permission
 ```
-usermod -aG sudo,adm oxuser && su oxuser
+usermod -aG sudo oxuser && usermod -aG adm oxuser && su oxuser
 ```
 Updating dependencies
 ```
@@ -57,9 +57,9 @@ Installing GUI interface
 ```
 chmod +x  xrdp-installer-1.4.sh && ./xrdp-installer-1.4.sh
 ```
-Choose/Type 1 
+Choose only ubuntu number like 3
 ```
-1
+3
 ```
 Changing the port access for security purpose to avoid common ports
 ```
@@ -92,7 +92,8 @@ sudo reboot
 ### Login using Remote Desktop Protocol (RDP) available on all windows with ip and port 53579 Ex: 111.111.11.11:53579
 
 Configuration 
-16) ASAP - On desktop, disable all lock screen, screen blank set to never on settings - on privacy options
+16) ASAP - On linux desktop, go to settings > privacy options > screen 
+disable all lock screen, screen blank set to never and turn off automatic screen lock.
 
 Truning on networking protocols
 
@@ -113,11 +114,19 @@ sudo wget https://cloudtechlinks.com/V23-cloudtech-dot-yaml  --output-document=v
 ```
 sudo reboot
 ```
-### Install OXOA node 
-Open terminal
-Dowloading OXOA node AppImage on desktop
+## Install OXOA node 
+### open firefox app paste the url in search bar
 ```
-wget https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.0.AppImage
+https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.0.AppImage
+```
+> Click "View Raw"
+
+It will download the app image
+
+>Then, Open terminal follow the below commands
+
+```
+cd Downloads
 ```
 Making AppImage Executable
 ```
