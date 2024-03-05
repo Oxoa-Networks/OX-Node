@@ -98,7 +98,7 @@ sudo reboot
 ## Install OXOA node 
 ### open firefox app paste the url in search bar
 ```
-https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.0.AppImage
+https://github.com/Oxoa-Networks/OX-Node/blob/main/OXNodeApp-Linux-4.6.1.AppImage
 ```
 > Click "View Raw"
 
@@ -111,11 +111,11 @@ cd Downloads
 ```
 Making AppImage Executable
 ```
-chmod +x OXNodeApp-Linux-4.6.0.AppImage
+chmod +x OXNodeApp-Linux-4.6.1.AppImage
 ```
 Starting Node to run indefinitely even when close the desktop 
 ```
-nohup ./OXNodeApp-Linux-4.6.0.AppImage &
+nohup ./OXNodeApp-Linux-4.6.1.AppImage &
 ```
 
 It will open the app, then you can scan the QR code & sign and start runing the node.
