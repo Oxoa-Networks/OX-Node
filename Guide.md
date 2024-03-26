@@ -1,4 +1,4 @@
-Buy Node : [https://node.oxoa.games?ref=0x8d2413447ff297d30bdc475f6d5cb00254685aae)
+Buy Node : [https://node.oxoa.games](https://node.oxoa.games?ref=0x8d2413447ff297d30bdc475f6d5cb00254685aae)
 
 # Node Guide
 Download putty preferably 64bit at https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
