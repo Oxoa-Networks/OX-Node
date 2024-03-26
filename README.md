@@ -2,7 +2,7 @@
 
 ### 🚀 Dive into the OX-NODE app – your gateway to managing and operating OX-NODEs! Earn $isOXOA rewards while seamlessly overseeing your nodes' performance.
 
-### 🔑 First things first, snag your OX-NODE keys at https://node.oxoa.games to launch your nodes into action!
+### 🔑 First things first, snag your OX-NODE keys at [https://node.oxoa.games](https://node.oxoa.games?ref=0x8d2413447ff297d30bdc475f6d5cb00254685aae) to launch your nodes into action!
 
 💻 **Hardware Requirements:**
 - 2 GB RAM
